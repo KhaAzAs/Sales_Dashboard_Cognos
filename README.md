@@ -7,7 +7,7 @@ In this assignment i will:
 - Create a dashboard using Cognos Analytics
 
 ## Result
-You can see the result live directly from IBM Cognos Analytics.
+You can see the result live directly from IBM Cognos Analytics. <br />
 [Sales Dashboard Cognos Analytics](https://ap1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAdvanced%2Bdashboard&action=view&mode=dashboard&subView=model0000018c7f81889e_00000001)
 
 <p align='center'>
